@@ -392,7 +392,7 @@ const Index = () => {
                   Join thousands of users who are already saving money and earning extra income through sharing.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <Link to="/auth">
+                  <Link to="/signup">
                     <Button size="lg" className="bg-gradient-to-r from-primary to-secondary hover:opacity-90 transition-opacity">
                       Get Started Free
                       <CheckCircle className="ml-2 h-4 w-4" />
